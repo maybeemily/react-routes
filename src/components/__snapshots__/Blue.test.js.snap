@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component renders the header 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "blue",
+      "color": "black",
+      "fontSize": "4em",
+      "height": "50vw",
+      "width": "50vw",
+    }
+  }
+>
+  B L U E
+</div>
+`;
