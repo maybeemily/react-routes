@@ -8,13 +8,13 @@ exports[`Header component renders the header 1`] = `
     >
       Red
     </Link>
-     |
+     |  
     <Link
       to="/blue"
     >
       Blue
     </Link>
-     |
+     |  
     <Link
       to="/yellow"
     >

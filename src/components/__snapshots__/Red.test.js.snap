@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Header component renders the header 1`] = `
+exports[`Red component renders red div 1`] = `
 <div
   style={
     Object {

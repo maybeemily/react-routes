@@ -1,10 +1,10 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Yellow component renders yellow div 1`] = `
+exports[`Color component renders the color in the url 1`] = `
 <div
   style={
     Object {
-      "backgroundColor": "yellow",
+      "backgroundColor": "hotpink",
       "color": "black",
       "fontSize": "4em",
       "height": "50vw",
@@ -12,6 +12,6 @@ exports[`Yellow component renders yellow div 1`] = `
     }
   }
 >
-  Y E L L O W
+  hotpink
 </div>
 `;

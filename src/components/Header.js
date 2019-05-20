@@ -5,8 +5,8 @@ export default function Header() {
   return (
     <header>
       <nav>
-        <Link to="/red">Red</Link> | 
-        <Link to="/blue">Blue</Link> |
+        <Link to="/red">Red</Link> | &nbsp;
+        <Link to="/blue">Blue</Link> | &nbsp;
         <Link to="/yellow">Yellow</Link>
       </nav>
     </header>
