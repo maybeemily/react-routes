@@ -6,10 +6,11 @@ export default function Yellow() {
     width: '50vw',
     height: '50vw',
     fontSize: '4em',
+    letterSpacing: '1em',
     color: 'black'
   };
 
   return (
-    <div style={style}>Y E L L O W</div>
+    <div style={style}>YELLOW</div>
   );
 }

@@ -6,10 +6,11 @@ export default function Blue() {
     width: '50vw',
     height: '50vw',
     fontSize: '4em',
+    letterSpacing: '1em',
     color: 'black'
   };
 
   return (
-    <div style={style}>B L U E</div>
+    <div style={style}>BLUE</div>
   );
 }

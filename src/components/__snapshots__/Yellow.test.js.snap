@@ -8,10 +8,11 @@ exports[`Yellow component renders yellow div 1`] = `
       "color": "black",
       "fontSize": "4em",
       "height": "50vw",
+      "letterSpacing": "1em",
       "width": "50vw",
     }
   }
 >
-  Y E L L O W
+  YELLOW
 </div>
 `;

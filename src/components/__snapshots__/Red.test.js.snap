@@ -8,10 +8,11 @@ exports[`Red component renders red div 1`] = `
       "color": "black",
       "fontSize": "4em",
       "height": "50vw",
+      "letterSpacing": "1em",
       "width": "50vw",
     }
   }
 >
-  R E D
+  RED
 </div>
 `;

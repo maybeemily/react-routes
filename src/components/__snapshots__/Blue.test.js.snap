@@ -8,10 +8,11 @@ exports[`Blue component renders blue div 1`] = `
       "color": "black",
       "fontSize": "4em",
       "height": "50vw",
+      "letterSpacing": "1em",
       "width": "50vw",
     }
   }
 >
-  B L U E
+  BLUE
 </div>
 `;

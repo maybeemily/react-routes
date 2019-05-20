@@ -8,6 +8,8 @@ exports[`Color component renders the color in the url 1`] = `
       "color": "black",
       "fontSize": "4em",
       "height": "50vw",
+      "letterSpacing": "1em",
+      "textTransform": "uppercase",
       "width": "50vw",
     }
   }

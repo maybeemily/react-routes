@@ -7,6 +7,8 @@ function Color({ match }) {
     width: '50vw',
     height: '50vw',
     fontSize: '4em',
+    letterSpacing: '1em',
+    textTransform: 'uppercase',
     color: 'black'
   };
 

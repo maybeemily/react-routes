@@ -6,10 +6,11 @@ export default function Red() {
     width: '50vw',
     height: '50vw',
     fontSize: '4em',
+    letterSpacing: '1em',
     color: 'black'
   };
 
   return (
-    <div style={style}>R E D</div>
+    <div style={style}>RED</div>
   );
 }
